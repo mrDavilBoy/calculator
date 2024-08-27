@@ -1,0 +1,33 @@
+body{
+    background: rgb(247, 247, 161);
+}
+#heading{
+    color: red;
+    text-align: center;
+    font-family:serief;
+    font-size: 50px;
+}
+.d1{
+    margin: auto;
+    width: 300px;
+    padding: 12px;
+    height: 300px;
+}
+.button{
+    color: red;
+    size: 50px;
+    padding-left: 2px;
+    font-size: large;
+}
+button{
+    margin: 10px 5px;
+    height: 50px;
+    width:50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+input{
+    height: 30px;
+    width: 245px;
+    border-radius: 10px;
+}
